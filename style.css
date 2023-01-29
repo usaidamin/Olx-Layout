@@ -199,6 +199,12 @@
     }
 }
 @media only screen and (max-width: 576px) {
+    .logo {
+        width: 95%;
+    }
+    .navbar {
+        width: 95%;
+    }
     .find {
         width: 650px;
         height: 40px;
